@@ -3,7 +3,7 @@
 ~~~
 mkdir build
 cd build
-cd ..
+cmake ..
 make
 ./socket_sample
 ~~~
